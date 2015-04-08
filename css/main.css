@@ -46,6 +46,10 @@ body {
   background-repeat: no-repeat;
 }
 
+.ryu-cool {
+	background-image: url('../images/ryu-cool.gif');
+}
+
 .hadouken {
   background-image: url('../images/hadouken.gif');
   width: 156px; 
@@ -57,3 +61,11 @@ body {
   left: 520px;
   float: left;
 }
+
+.how-to p {
+	font-family: 'Indie Flower';
+	width: 100px;
+	padding-left: 600px;
+}
+
+
